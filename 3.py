@@ -37,6 +37,6 @@ for i in range(t):
       maxf = j
 
   if n > 1:
-    maxf = nß
+    maxf = n
 
   print(maxf)
